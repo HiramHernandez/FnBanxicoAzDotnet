@@ -1,0 +1,1 @@
+https://fnbanxicoaz.azurewebsites.net/api/httptrigger1?initialDate=2023-03-01&finishDate=2023-03-05
